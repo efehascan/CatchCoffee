@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
     float horizontalInput;
     float verticalInput;
     
-    public Transform transform;
+    
     public Transform transformG;
 
     private void Awake()
