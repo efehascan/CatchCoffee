@@ -5,7 +5,7 @@ public class FruitSpawnerScript : MonoBehaviour
 {
     public GameObject[] fruits;
     public float sabitY = 10f;
-    public float SpawnSuresi = 1.0f;
+    public float SpawnSuresi = 0.5f;
     
     void Start()
     {
